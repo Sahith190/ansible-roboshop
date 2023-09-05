@@ -6,3 +6,6 @@ catalogue.sahith.online
 
 [web]
 web.sahith.online
+
+[redis]
+redis.sahith.online
