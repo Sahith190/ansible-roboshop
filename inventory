@@ -21,3 +21,9 @@ mysql.sahith.online
 
 [payment]
 payment.sahith.online
+
+[rabbitmq]
+rabbitmq.sahith.online
+
+[shipping]
+shipping.sahith.online
